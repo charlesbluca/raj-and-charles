@@ -5,3 +5,4 @@ def goodbye_world():
     print("goodbye world! :(")
 
 hello_world()
+goodbye_world()
